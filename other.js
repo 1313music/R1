@@ -212,6 +212,13 @@ window.otherAlbum = {
     { name: "鸵鸟简单生活节", src: "/other/鸵鸟简单生活节.mp3", lrc: "" },
     { name: "鹿港小镇 (Live)", src: "/other/鹿港小镇 (Live).mp3", lrc: "" },
     { name: "鹿港小镇", src: "/other/鹿港小镇.mp3", lrc: "" },
-    { name: "radio南京", src: "/other/radio南京.mp3", lrc: "" }
+    { name: "radio南京", src: "/other/radio南京.mp3", lrc: "" },
+    { name: "关于郑州的记忆+董卓瑶+春末的南方城市李志2018南京森林音乐节", src: "/other/关于郑州的记忆+董卓瑶+春末的南方城市李志2018南京森林音乐节.mp3", lrc: "" },
+    { name: "和你在一起2015重庆仲夏音乐节歌迷合唱", src: "/other/和你在一起2015重庆仲夏音乐节歌迷合唱.mp3", lrc: "" },
+    { name: "忽然 长春GOIN LIVE叁缺贰20210523", src: "/other/忽然 长春GOIN LIVE叁缺贰20210523.mp3", lrc: "" },
+    { name: "梵高先生-三美 朱格乐 阿玛妮 张怡然 20210523 长春", src: "/other/梵高先生-三美 朱格乐 阿玛妮 张怡然 20210523 长春.mp3", lrc: "" },
+    { name: "流浪者 去年冬天 明天我要嫁给你 恋恋风尘", src: "/other/流浪者 去年冬天 明天我要嫁给你 恋恋风尘.mp3", lrc: "" },
+    { name: "虎口脱险-李志+爻-梁颖_HelloB_", src: "/other/虎口脱险-李志+爻-梁颖_HelloB_.mp3", lrc: "" },
+    { name: "黄昏-邵夷贝", src: "/other/黄昏-邵夷贝.mp3", lrc: "" }
   ]
 };
